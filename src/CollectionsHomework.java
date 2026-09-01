@@ -31,7 +31,7 @@ public class CollectionsHomework {
         return numbers.toArray();
     }
 
-    //Question 3 — Sum of Two Largest
+
     public static int sumOfTwoLargest(int[] array) {
         if (array.length == 0){ return 0; }
         if (array.length == 1){ return array[0]; }
